@@ -112,6 +112,10 @@ Instruct your developers to apply a three-tiered access model:
 
 Have your developer update your root robots.txt file using clear bot-specific parameters:
 
+<img src="/images/blog/crawler-robots-directives.webp" width="1600" height="1789" loading="lazy" decoding="async" alt="Annotated robots.txt file at yourdomain.com/robots.txt. Search and citation engines OAI-SearchBot and PerplexityBot are allowed. The user-directed agent ChatGPT-User is allowed. Training scrapers GPTBot, ClaudeBot and Bytespider are disallowed. Next step: mirror these rules in Cloudflare so they hold at the edge.">
+
+Copy-paste version:
+
 <pre><code># Allow AI Search and Citation Engines
 User-agent: OAI-SearchBot
 Allow: /
