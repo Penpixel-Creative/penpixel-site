@@ -14,6 +14,8 @@ const d = post.data;
 
 const authorName = d.author ?? SITE.founder;
 const authorMeta = AUTHORS[authorName as keyof typeof AUTHORS];
+// Byline links to the author's LinkedIn (first sameAs entry in consts.ts).
+const authorProfile = authorMeta?.sameAs?.[0];
 
 const schema = {
   '@context': 'https://schema.org',
@@ -45,7 +47,13 @@ const fmt = (dt) => dt.toLocaleDateString('en-US', { year: 'numeric', month: 'lo
     <p class="font-mono text-sm uppercase tracking-[0.2em] text-canvas/50">// insights</p>
     <h1 class="mt-5 text-4xl md:text-5xl">{d.title}</h1>
     <p class="mt-4 font-mono text-xs uppercase tracking-wider text-canvas/60">
-      {authorName} · <time datetime={d.pubDate.toISOString()}>{fmt(d.pubDate)}</time>
+      {authorProfile
+        ? <a href={authorProfile} target="_blank" rel="noopener noreferrer author" class="underline underline-offset-4 decoration-canvas/30 hover:text-canvas">{authorName}</a>
+        : authorName}
+      {' · '}
+      {d.updatedDate
+        ? <>Originally published <time datetime={d.pubDate.toISOString()}>{fmt(d.pubDate)}</time> · Updated <time datetime={d.updatedDate.toISOString()}>{fmt(d.updatedDate)}</time></>
+        : <time datetime={d.pubDate.toISOString()}>{fmt(d.pubDate)}</time>}
     </p>
     <article class="prose-penpixel mt-10">
       <Content />
