@@ -14,7 +14,7 @@ citation:
   - 'https://blog.google/products-and-platforms/products/search/search-io-2026/'
 faqs:
   - question: "Why does Cloudflare's new taxonomy require CMO oversight?"
-    answer: 'Default server settings prioritize network security over marketing performance. If technical teams leave default rules active, automated systems will block high-intent search crawlers and AI agents. This removes your brand from AI discovery and breaks buyer pathways.'
+    answer: 'Default settings prioritize network policy over marketing performance. Cloudflare''s defaults block Agent traffic on ad-supported pages, and blocking Training also blocks multi-purpose crawlers like Googlebot and Bingbot. A CMO needs to own that call, or engineering makes it for you.'
   - question: 'How do AI agents impact low-friction conversion motions?'
     answer: 'Modern buyers use AI agents to evaluate software, review pricing, and navigate signup flows. Blocking agentic crawlers causes these automated workflows to fail. Buyers receive errors and switch to accessible competitors.'
   - question: 'What is the risk of allowing all AI crawlers to access our domain?'
@@ -62,13 +62,13 @@ This is not an IT housekeeping exercise. It is an executive decision about where
 
 To configure your technical policy correctly, you must understand what each crawler type does when it hits your domain.
 
-<img src="/images/blog/crawler-three-categories.webp" width="1600" height="1183" loading="lazy" decoding="async" alt="The three categories of AI crawlers. Search, such as OAI-SearchBot and PerplexityBot, retrieves fresh content for live buyer queries with high business impact. Agent, such as ChatGPT-User, acts for a user by reading pricing and testing signup flows, with critical business impact. Training, such as GPTBot, ClaudeBot and Bytespider, scrapes content to train LLMs and sends no traffic back, with negative business impact.">
+<img src="/images/blog/crawler-three-categories.webp" width="1600" height="1183" loading="lazy" decoding="async" alt="The three categories of AI crawlers. Search, such as OAI-SearchBot, Claude-SearchBot and PerplexityBot, retrieves fresh content for live buyer queries with high business impact. Agent, such as ChatGPT-User, acts for a user by reading pricing and testing signup flows, with critical business impact. Training, such as GPTBot, ClaudeBot and Bytespider, scrapes content to train LLMs and sends no traffic back, with negative business impact.">
 
 ### 1. Search Bots
 
 Search bots retrieve fresh content to answer immediate user queries.
 
-- **Examples:** OAI-SearchBot, PerplexityBot
+- **Examples:** OAI-SearchBot, Claude-SearchBot, PerplexityBot
 - **Purpose:** Indexing pages to return live citations, links, and summaries.
 - **Business Impact:** High. Blocking these bots removes your product from modern answer engines, creating immediate gaps in top-of-funnel discovery.
 
@@ -92,13 +92,13 @@ Training bots collect large datasets to build foundational or fine-tuned AI mode
 
 Have your web dev team define the access rules and instruct your engineering team to execute them.
 
-Hand the following directives to your engineering or web development team to ensure your robots.txt file and Cloudflare WAF align with your revenue strategy.
+Hand the following directives to your engineering or web development team to ensure your robots.txt file and Cloudflare settings align with your revenue strategy.
 
-<img src="/images/blog/crawler-implementation-map.webp" width="1600" height="1336" loading="lazy" decoding="async" alt="Implementation map for robots.txt and Cloudflare. Incoming Search traffic (OAI-SearchBot, PerplexityBot) and Agent traffic (ChatGPT-User) are allowed through to marketing assets, pricing, product info and signup flows. Training traffic (GPTBot, ClaudeBot, Bytespider) is disallowed and mirrored in Cloudflare at the edge. Steps 1 and 2, audit access policy and set three tiers, are defined by you. Steps 3 and 4, update robots.txt and enforce at the edge, are executed by the dev team.">
+<img src="/images/blog/crawler-implementation-map.webp" width="1600" height="1336" loading="lazy" decoding="async" alt="Implementation map for robots.txt and Cloudflare. Incoming Search traffic (OAI-SearchBot, Claude-SearchBot, PerplexityBot) and Agent traffic (ChatGPT-User) are allowed through to marketing assets, pricing, product info and signup flows. Training traffic (GPTBot, ClaudeBot, Bytespider) is disallowed and mirrored in Cloudflare at the edge. Steps 1 and 2, audit access policy and set three tiers, are defined by you. Steps 3 and 4, update robots.txt and enforce at the edge, are executed by the dev team.">
 
 ### Step 1: Request an Access Policy Audit
 
-Ask your technical team to review your current robots.txt file and Cloudflare WAF rules. Ensure they are not using blanket Disallow directives that accidentally block high-value search and agent crawlers.
+Ask your technical team to review your current robots.txt file, Cloudflare AI Crawl Control settings, and WAF rules. Ensure they are not using blanket Disallow directives that accidentally block high-value search and agent crawlers.
 
 ### Step 2: Define Your Access Rules
 
@@ -112,8 +112,15 @@ Instruct your developers to apply a three-tiered access model:
 
 Have your developer update your root robots.txt file using clear bot-specific parameters:
 
+<img src="/images/blog/crawler-robots-directives.webp" width="1600" height="1905" loading="lazy" decoding="async" alt="Annotated robots.txt file at yourdomain.com/robots.txt. Search and citation engines OAI-SearchBot, Claude-SearchBot and PerplexityBot are allowed. The user-directed agent ChatGPT-User is allowed. Training scrapers GPTBot, ClaudeBot and Bytespider are disallowed. Next step: enforce these rules in Cloudflare AI Crawl Control so they hold at the edge.">
+
+Copy-paste version:
+
 <pre><code># Allow AI Search and Citation Engines
 User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-SearchBot
 Allow: /
 
 User-agent: PerplexityBot
@@ -133,9 +140,16 @@ Disallow: /
 User-agent: Bytespider
 Disallow: /</code></pre>
 
-### Step 4: Verify in Cloudflare WAF
+Two caveats your developer needs to know:
 
-If your team uses Cloudflare for security, instruct them to mirror these rules within Cloudflare's Security > WAF > Managed Rules interface to enforce these policies at the network edge before requests hit your origin server.
+- **ChatGPT-User may not honor robots.txt.** OpenAI says that because its actions are initiated by a live user, robots.txt rules may not apply. To control agent access reliably, set it at the edge in Step 4.
+- **Bytespider has a documented history of ignoring robots.txt.** Block it at the edge too, not just in this file.
+
+### Step 4: Enforce in Cloudflare AI Crawl Control
+
+In the Cloudflare dashboard, open AI Crawl Control for your domain and set each crawler to Allow or Block. Cloudflare enforces those choices with a WAF custom rule at the network edge, before requests reach your origin server.
+
+If Bot Fight Mode is on, your allow rules can't override it. Cloudflare does not let WAF custom rules bypass Bot Fight Mode, so check it before assuming search bots get through.
 
 ## The Strategic Advantage of Granular Control
 
