@@ -17,8 +17,8 @@ before cancellation. See "Open items" at the bottom of this file for what's
 still outstanding.
 
 ## Requirements
-- Node.js **22.12.0+** (see `.nvmrc`)
-- Astro **7.2.4**. See "Astro version: upgraded to 7 (Aug 2026)" below before
+- Node.js **22.23.4** (see `.nvmrc`)
+- Astro **7.4.2**. See "Astro version: upgraded to 7 (Aug 2026)" below before
   touching this pin.
 
 ## Astro version: upgraded to 7 (Aug 2026)
@@ -103,7 +103,7 @@ src/
 
 ## Deploy
 Auto-deploys via Cloudflare Pages on every push to `main` (GitHub:
-`mattrshaw4/penpixel-site`). Build command `npm run build`, output `dist`.
+`Penpixel-Creative/penpixel-site`). Build command `npm run build`, output `dist`.
 No manual deploy step: `git push` is the whole release process.
 
 ## Canonical domain: penpixelcreative.com (bare, not www)
