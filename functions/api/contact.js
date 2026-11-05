@@ -76,6 +76,7 @@ export async function onRequestPost(context) {
   });
   const verify = await verifyRes.json();
   if (!verify.success) {
+    console.log(JSON.stringify({ event: 'turnstile_fail', codes: verify['error-codes'] || [] }));
     return json(403, { ok: false, error: 'Verification failed. Please try again.' });
   }
 
