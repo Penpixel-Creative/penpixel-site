@@ -171,5 +171,5 @@ Request a Machine-First Readiness Audit from Penpixel Creative. We audit your te
 
 <aside class="callout" aria-label="Related reading">
 <p class="callout-label">BTW</p>
-<p>Read <a href="/blog/your-legacy-seo-dashboard-is-old" target="_blank" rel="noopener noreferrer">Your SEO Dashboard Is Keeping Score For The Old Game</a> if you'd like to understand why traditional SEO dashboards miss AI search visibility and how to ensure your brand is accurately represented in LLMs.</p>
+<p>Read <a href="/blog/your-legacy-seo-dashboard-is-old/">Your SEO Dashboard Is Keeping Score For The Old Game</a> if you'd like to understand why traditional SEO dashboards miss AI search visibility and how to ensure your brand is accurately represented in LLMs.</p>
 </aside>
