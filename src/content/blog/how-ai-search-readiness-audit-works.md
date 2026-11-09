@@ -9,11 +9,11 @@ Google Analytics tells you how much traffic you get.
 
 What it doesn’t tell you is whether ChatGPT, Perplexity, or Gemini ever mentioned your brand in the first place.
 
-That’s a blind spot traditional SEO tools can’t solve, and it’s exactly why an [**AI-Search Readiness Audit**](/services/ai-search-readiness-audits) exists.
+That’s a blind spot traditional SEO tools can’t solve, and it’s exactly why an [**AI-Search Readiness Audit**](/services/ai-search-readiness-audits/) exists.
 
-*If you’re just joining us, start with* [***Why Your Brand Isn’t Showing Up in ChatGPT or Perplexity (And Why It Matters)***](/blog/why-brand-missing-from-ai-search) *for context on why these gaps matter.*
+*If you’re just joining us, start with* [***Why Your Brand Isn’t Showing Up in ChatGPT or Perplexity (And Why It Matters)***](/blog/why-brand-missing-from-ai-search/) *for context on why these gaps matter.*
 
-*Or, if you’re looking for tactical steps, check out* [***The Building Blocks of Citation-Ready Content for AI Search***](/blog/how-to-create-citation-ready-content-for-ai-search)*.*
+*Or, if you’re looking for tactical steps, check out* [***The Building Blocks of Citation-Ready Content for AI Search***](/blog/how-to-create-citation-ready-content-for-ai-search/)*.*
 
 ## Why Our Audits Include This
 One of the core questions in our audit is:
@@ -63,7 +63,7 @@ When an audit uncovers **missing Share of Voice**, the roadmap usually includes:
 **Publish Authoritative Assets**
 
 - Case studies, benchmarks, and original data.
-- AI tools prefer citing measurable, fact-based resources. [Recovering 1,000+ de-indexed location pages](/case-studies/veterinary-migration) is the kind of specific, auditable result that qualifies.
+- AI tools prefer citing measurable, fact-based resources. [Recovering 1,000+ de-indexed location pages](/case-studies/veterinary-migration/) is the kind of specific, auditable result that qualifies.
 
 **Reinforce Entity Signals**
 
@@ -87,10 +87,10 @@ AI-Search Readiness Audits uncover the blind spots:
 - Why competitors are ahead.
 - What needs to change to shift perception.
 
-If you want to know how your brand actually looks in AI tools, not just in Google, [an audit is where you start](/services/ai-search-readiness-audits).
+If you want to know how your brand actually looks in AI tools, not just in Google, [an audit is where you start](/services/ai-search-readiness-audits/).
 
 And if you want to connect the dots:
 
-- Go back to[**Why Your Brand Isn’t Showing Up in ChatGPT or Perplexity (And Why It Matters)**](/blog/why-brand-missing-from-ai-search).
+- Go back to[**Why Your Brand Isn’t Showing Up in ChatGPT or Perplexity (And Why It Matters)**](/blog/why-brand-missing-from-ai-search/).
 
-Or revisit [**The Building Blocks of Citation-Ready Content for AI Search**.](/blog/how-to-create-citation-ready-content-for-ai-search)
+Or revisit [**The Building Blocks of Citation-Ready Content for AI Search**.](/blog/how-to-create-citation-ready-content-for-ai-search/)

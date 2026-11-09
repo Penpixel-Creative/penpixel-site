@@ -37,7 +37,7 @@ AI understands these statements as clarifications, not contradictions. The negat
 3. **Strengthen Brand Authority:** Negative positioning highlights your unique role in the market, showcasing your distinct value proposition. In industries crowded with “me-too” offerings, being clear about what you don’t do builds trust.
 
 ## Where to Apply It
-Start implementing [new content strategy tactics](/blog/agentic-ai-cdn-content-delivery) like negative inbound optimization on:
+Start implementing [new content strategy tactics](/blog/agentic-ai-cdn-content-delivery/) like negative inbound optimization on:
 
 - **Service Pages:** Add clarifying statements so prospects (and AI) don’t misclassify you.
 - **FAQs:** Include questions like “Do you provide X?” with direct “No, here’s what we do instead” answers.
@@ -48,7 +48,7 @@ Start implementing [new content strategy tactics](/blog/agentic-ai-cdn-content-d
 
 Not if it’s used sparingly and strategically. Google still parses keywords literally, so you don’t want every headline framed as a negative. But with AI-driven search becoming the default entry point for many buyers, **the benefits of clarity outweigh the risks.**
 
-Related reading: [**Co-Citations: The Authority Signal AI Search Can’t Ignore**](/blog/co-citations-ai-search-authority)
+Related reading: [**Co-Citations: The Authority Signal AI Search Can’t Ignore**](/blog/co-citations-ai-search-authority/)
 
 ## The Bottom Line: Clarity Is Authority
 Clarity wins in AI-driven content. Saying what you are *not* no longer dilutes authority; it defines it.
@@ -61,10 +61,10 @@ Negative inbound optimization helps you:
 
 The brands that embrace this shift will be the ones AI tools trust and the ones buyers remember.
 
-[The Alexander Group](/case-studies/the-alexander-group) sharpened exactly this kind of positioning clarity, and it drove a 44% organic growth surge.
+[The Alexander Group](/case-studies/the-alexander-group/) sharpened exactly this kind of positioning clarity, and it drove a 44% organic growth surge.
 
 Ready to sharpen how your brand shows up in AI-driven search?
 
 Our entity management services help you define your positioning clearly and ensure that AI tools accurately repeat it.
 
-[Explore our Entity Management services](/services/entity-management) now.
+[Explore our Entity Management services](/services/entity-management/) now.

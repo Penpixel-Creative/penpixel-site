@@ -5,7 +5,7 @@ description: 'TurboQuant increases AI search speed and frequency. Learn to move 
 pubDate: 2026-04-02
 ---
 
-[The shift introduced by Google’s TurboQuant](/blog/turboquant-the-invisible-infrastructure-of-ai-search) is not a theoretical change in search; it is an operational one. By making AI models faster and cheaper to deploy, TurboQuant increases the frequency of AI-driven answers while tightening the criteria for including sources.
+[The shift introduced by Google’s TurboQuant](/blog/turboquant-the-invisible-infrastructure-of-ai-search/) is not a theoretical change in search; it is an operational one. By making AI models faster and cheaper to deploy, TurboQuant increases the frequency of AI-driven answers while tightening the criteria for including sources.
 
 As AI systems process more queries at higher speeds, they rely on smaller, higher-confidence source sets. For marketing leaders, the mandate is clear:
 
@@ -65,7 +65,7 @@ To maintain visibility as TurboQuant-optimized models become the default interfa
 ### Start Doing:
 - **Designing for Extraction:** Formatting every asset so an AI can cite it.
 - **Building Entity Definitions:** Ensuring your brand’s "who and what" is identical across every digital surface.
-- **Measuring Citation Share:** Tracking how often your brand is the recommended answer in AI search, [the highest-converting channel](/blog/ai-traffic-is-most-critical-channel) most teams still aren't measuring.
+- **Measuring Citation Share:** Tracking how often your brand is the recommended answer in AI search, [the highest-converting channel](/blog/ai-traffic-is-most-critical-channel/) most teams still aren't measuring.
 
 ## Final Takeaway
 TurboQuant does not change your content strategy; it changes the environment in which your content competes. Faster systems and more queries lead to fewer selected sources.
@@ -74,4 +74,4 @@ In this environment, the winning brands will not be the loudest. They will be th
 
 **Is your marketing team still building hard-to-ignore content?**
 
-We specialize in aligning visual, verbal, and technical signals to ensure your brand is AI-Search Ready. It's the same operational discipline [Joveo scaled across its global enterprise footprint](/case-studies/joveo).
+We specialize in aligning visual, verbal, and technical signals to ensure your brand is AI-Search Ready. It's the same operational discipline [Joveo scaled across its global enterprise footprint](/case-studies/joveo/).

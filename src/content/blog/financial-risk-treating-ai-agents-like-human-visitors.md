@@ -15,13 +15,13 @@ Your current website is bleeding traffic because search engine behavior has fund
 
 **Extractive Efficiency Deployment** — Penpixel Creative specializes in re-engineering your digital estate for Extractive Efficiency, making your business transactable to autonomous AI models.
 
-For twenty-five years, [B2B SaaS companies have built digital storefronts under a single assumption](/blog/core-inversion-machine-first-architecture): your visitor is a human who reads copy, scrolls grids, and manually fills out form fields.
+For twenty-five years, [B2B SaaS companies have built digital storefronts under a single assumption](/blog/core-inversion-machine-first-architecture/): your visitor is a human who reads copy, scrolls grids, and manually fills out form fields.
 
 That assumption is now a financial liability.
 
 Today, the visitor arriving at your site is increasingly an autonomous AI agent. Runtimes like ChatGPT Atlas, Google's Project Mariner, and Perplexity Comet are actively filling forms, researching vendors, and executing transactions on behalf of real corporate buyers.
 
-If your website architecture hasn't evolved past the [legacy human-first layout](/blog/moving-beyond-visual-marketing-to-agentic-ai), you are exposed to immediate, compounding financial risks. Here is exactly what it costs to do nothing.
+If your website architecture hasn't evolved past the [legacy human-first layout](/blog/moving-beyond-visual-marketing-to-agentic-ai/), you are exposed to immediate, compounding financial risks. Here is exactly what it costs to do nothing.
 
 ## 1. You Are Funding a 100% Agent Abandonment Rate
 
@@ -62,7 +62,7 @@ Traditional digital agencies are fundamentally unbuilt for machine optimization.
 
 At **Penpixel Creative**, we approach this as an architectural necessity. We re-engineer your B2B SaaS digital estate for **Extractive Efficiency**—ensuring your pricing models, documentation, and product tiers are immediately accessible, interpretable, and usable by autonomous AI models.
 
-We liquidate your legacy technical debt and move your value proposition directly into the machine interfaces where purchasing decisions are made. We don't just optimize your web pages; we make your entire business transactable to machines. [A global RPO enterprise's "JavaScript Blackout"](/case-studies/rpo-indexation) is exactly the kind of abandonment-driving technical debt we resolve, restoring indexation via a 30-day sprint.
+We liquidate your legacy technical debt and move your value proposition directly into the machine interfaces where purchasing decisions are made. We don't just optimize your web pages; we make your entire business transactable to machines. [A global RPO enterprise's "JavaScript Blackout"](/case-studies/rpo-indexation/) is exactly the kind of abandonment-driving technical debt we resolve, restoring indexation via a 30-day sprint.
 
 ### Stop Guesstimating Your Machine Visibility
 
@@ -70,7 +70,7 @@ If you cannot explain why your organic performance is shifting, or if your curre
 
 Let us diagnose exactly how AI platforms interpret, cite, or ignore your SaaS brand.
 
-↳ [**Secure Strategic Clarity. Contact Penpixel Creative Today**](/contact)**.**
+↳ [**Secure Strategic Clarity. Contact Penpixel Creative Today**](/contact/)**.**
 
 ## Frequently Asked Questions
 

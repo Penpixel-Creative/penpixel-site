@@ -182,13 +182,13 @@ The next step is not to abandon SEO. The next step is to add a machine-first lay
 
 That means reviewing your website, structured data, source material, third-party evidence, citation paths, AI answer presence, crawler access, and conversion paths together.
 
-That is what a [Machine-First Audit](/services/ai-search-readiness-audits) is for.
+That is what a [Machine-First Audit](/services/ai-search-readiness-audits/) is for.
 
 It shows where your digital estate is readable, where it is invisible, where AI systems may lose confidence, and what to fix first.
 
 If you want to see where your old scoreboard and your AI visibility are splitting, start with the AI Search Readiness Audit.
 
-You can [get the diagnosis](/contact) here.
+You can [get the diagnosis](/contact/) here.
 
 ## Sources
 

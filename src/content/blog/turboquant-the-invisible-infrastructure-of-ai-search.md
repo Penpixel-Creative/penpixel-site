@@ -45,7 +45,7 @@ Unlike older methods that squeezed models after they were built, TurboQuant inte
 
 ## TurboQuant vs. RAG: Improving the Engine vs. Supplying the Fuel
 
-There is a distinction between how a model *thinks* (TurboQuant) and where it gets its *facts* (RAG). To [understand your brand's place in search](/blog/how-to-fix-your-brand-entity-recognition-in-ai), you must understand both.
+There is a distinction between how a model *thinks* (TurboQuant) and where it gets its *facts* (RAG). To [understand your brand's place in search](/blog/how-to-fix-your-brand-entity-recognition-in-ai/), you must understand both.
 
 ### The Role of TurboQuant (The Engine)
 
@@ -83,12 +83,12 @@ Lower costs for AI companies mean they can serve more users. As AI becomes the d
 
 TurboQuant is not a marketing tactic; it is an infrastructure shift. It makes AI cheaper, faster, and more widespread. In doing so, it raises the bar for every brand.
 
-You are no longer competing to rank. You are competing to be the highly compressed, highly-trusted "Source of Truth" that the AI system selects in a fraction of a second. That's the operational mandate we lay out in [Operationalizing TurboQuant](/blog/operationalizing-turboquant).
+You are no longer competing to rank. You are competing to be the highly compressed, highly-trusted "Source of Truth" that the AI system selects in a fraction of a second. That's the operational mandate we lay out in [Operationalizing TurboQuant](/blog/operationalizing-turboquant/).
 
 As these systems get more efficient, the "Invisible Authority Gap" becomes a revenue leak.
 
 **Does your brand have the "Entity Confidence" to survive the shift toward efficient AI search?**
 
-We help enterprise-level leaders diagnose where their authority is "trapped" and ensure they are the brand AI tools cite and recommend, the way we did for [Joveo's global enterprise footprint](/case-studies/joveo).
+We help enterprise-level leaders diagnose where their authority is "trapped" and ensure they are the brand AI tools cite and recommend, the way we did for [Joveo's global enterprise footprint](/case-studies/joveo/).
 
-[Request an AI-Search Readiness Audit](/contact)
+[Request an AI-Search Readiness Audit](/contact/)

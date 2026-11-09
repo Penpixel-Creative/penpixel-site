@@ -9,7 +9,7 @@ AI tools don’t pull content randomly. They favor structured, citation-ready so
 
 If your content isn’t built this way, you won’t get mentioned; and if you’re not mentioned, you’re not part of the conversation your buyers are having with AI.
 
-If you missed our earlier blog, [**Why Your Brand Isn’t Showing Up in ChatGPT or Perplexity (And Why It Matters)**](/blog/why-brand-missing-from-ai-search), start there for context on why AI visibility gaps happen in the first place.
+If you missed our earlier blog, [**Why Your Brand Isn’t Showing Up in ChatGPT or Perplexity (And Why It Matters)**](/blog/why-brand-missing-from-ai-search/), start there for context on why AI visibility gaps happen in the first place.
 
 ## Why This Matters in an Audit
 One of the core questions in our AI-Search Readiness Audit is simple:
@@ -85,8 +85,8 @@ Citation-ready content doesn’t just get you mentioned in AI search results. It
 - Strengthens buyer trust.
 - Prevents competitors from dominating every answer.
 
-This isn’t guesswork. Our [AI-Search Readiness Audit](/services/ai-search-readiness-audits) shows you **who’s getting cited, why, and what to do about it.** [DT Heritage saw 92.1% AI citation growth](/case-studies/dt-heritage) once their content was rebuilt this way.
+This isn’t guesswork. Our [AI-Search Readiness Audit](/services/ai-search-readiness-audits/) shows you **who’s getting cited, why, and what to do about it.** [DT Heritage saw 92.1% AI citation growth](/case-studies/dt-heritage/) once their content was rebuilt this way.
 
-Next up, we’ll show you how those insights turn into action: [**How an AI-Search Readiness Audit Uncovers Visibility Gaps You Can’t See in Google Analytics**](/blog/how-ai-search-readiness-audit-works).
+Next up, we’ll show you how those insights turn into action: [**How an AI-Search Readiness Audit Uncovers Visibility Gaps You Can’t See in Google Analytics**](/blog/how-ai-search-readiness-audit-works/).
 
-And if you missed the first part of this series, circle back to [**Why Your Brand Isn’t Showing Up in ChatGPT or Perplexity (And Why It Matters)**](/blog/why-brand-missing-from-ai-search).
+And if you missed the first part of this series, circle back to [**Why Your Brand Isn’t Showing Up in ChatGPT or Perplexity (And Why It Matters)**](/blog/why-brand-missing-from-ai-search/).

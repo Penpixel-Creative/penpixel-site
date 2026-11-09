@@ -20,7 +20,7 @@ import { caseStudies } from '../../data/case-studies';
       <div class="mx-auto max-w-6xl px-6 py-16">
         <div class="grid gap-6 md:grid-cols-2">
           {caseStudies.map((cs) => (
-            <a href={`/case-studies/${cs.slug}`} class="group block border-l-2 border-success/60 bg-white/[0.02] p-7 transition-colors hover:bg-white/[0.05]">
+            <a href={`/case-studies/${cs.slug}/`} class="group block border-l-2 border-success/60 bg-white/[0.02] p-7 transition-colors hover:bg-white/[0.05]">
               <p class="font-mono text-xs uppercase tracking-[0.2em] text-canvas/50">// {cs.eyebrow}</p>
               <p class="mt-4 font-mono text-4xl font-bold text-success">{cs.homeMetric.value}</p>
               <p class="mt-1 text-sm text-canvas/70">{cs.homeMetric.label}</p>

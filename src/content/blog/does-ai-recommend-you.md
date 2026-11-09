@@ -7,7 +7,7 @@ pubDate: 2025-08-06
 
 AI tools like ChatGPT are drastically changing how people find expert partners.
 
-You see, now, your clients can simply ask the question on their mind and get an answer, instead of a long [list of blue links to pages](/blog/evolution-of-seo-to-ai) that *might* answer their questions.
+You see, now, your clients can simply ask the question on their mind and get an answer, instead of a long [list of blue links to pages](/blog/evolution-of-seo-to-ai/) that *might* answer their questions.
 
 This new way of discovering you means two things:
 
@@ -24,7 +24,7 @@ In this post, I'll explain what AI tools can and can't do and what a real strate
 
 It's a fair question. I hear it all the time.
 
-[AI audits](/services/ai-search-readiness-audits) feel smart. Fast. Free. It can scan your site in seconds, spit out insights, and even tell you what's wrong.
+[AI audits](/services/ai-search-readiness-audits/) feel smart. Fast. Free. It can scan your site in seconds, spit out insights, and even tell you what's wrong.
 
 So why pay someone to do the same thing?
 
@@ -125,7 +125,7 @@ Why? Because:
 - Your site lacks the structured data that feeds knowledge graphs
 - Your competitors have simply done more to show up, so AI defaults to recommending them
 
-This isn't a reflection of your *value*. It's a reflection of your *visibility*. [One logistics client fixed exactly that gap](/case-studies/logistics) and saw organic traffic surge 1,500%.
+This isn't a reflection of your *value*. It's a reflection of your *visibility*. [One logistics client fixed exactly that gap](/case-studies/logistics/) and saw organic traffic surge 1,500%.
 
 If your name isn't part of the existing dataset, or your site isn't structured in a way AI understands, you'll get skipped, even if you're the better choice.
 
@@ -141,7 +141,7 @@ Here's what we give you, beyond what AI can:
 
 - **Human + AI Insight**: We evaluate your presence through both lenses
 - **Positioning Clarity**: We diagnose whether your brand is sharp, trustworthy, and differentiated
-- [**Content Structure Map**](/blog/how-to-create-citation-ready-content-for-ai-search): How your services, expertise, and ideas should be organized for maximum citability
+- [**Content Structure Map**](/blog/how-to-create-citation-ready-content-for-ai-search/): How your services, expertise, and ideas should be organized for maximum citability
 - **SEO + Schema Cleanup**: We find and fix the technical gaps blocking your visibility
 - **Competitor Comparison**: We show you who AI is recommending instead of you, and why
 - **Strategic Roadmap**: Not just what to fix, but what to do next to build long-term brand visibility in AI search
@@ -178,4 +178,4 @@ If your name isn't showing up in AI-generated answers, you don't just need a fix
 
 You need a strategy.
 
-👉 [**Start Your AI-Search Readiness Audit now »**](/services/ai-search-readiness-audits)
+👉 [**Start Your AI-Search Readiness Audit now »**](/services/ai-search-readiness-audits/)

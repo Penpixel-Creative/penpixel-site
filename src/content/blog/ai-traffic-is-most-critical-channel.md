@@ -31,7 +31,7 @@ Data from the [2026 Q2 cycle](https://business.adobe.com/resources/sdk/2026-q2-a
 
 The risk is clear: Agents do not "browse." They close.
 
-If your [site is not architected for machine ingestion](/blog/beyond-the-blue-link), you are not just losing traffic; you are losing the revenue layer of your category.
+If your [site is not architected for machine ingestion](/blog/beyond-the-blue-link/), you are not just losing traffic; you are losing the revenue layer of your category.
 
 ## Why Is Your Current Website Failing to Convert AI-Driven Traffic?
 
@@ -67,7 +67,7 @@ Before an agent can cite or act, it must trust the source. Technical structure i
 
 ### The Content & Structure Pillars (Citation)
 
-To ensure your brand is cited as the authoritative source, you must [adopt "Snippable" structural content elements](/blog/turboquant-the-invisible-infrastructure-of-ai-search):
+To ensure your brand is cited as the authoritative source, you must [adopt "Snippable" structural content elements](/blog/turboquant-the-invisible-infrastructure-of-ai-search/):
 
 - **Semantic Hierarchies:** Use H2 and H3 tags to define discrete ideas for machine parsing.
 - **Information Front-Loading:** Place core facts at the immediate start of sections to prevent truncation.
@@ -85,11 +85,11 @@ Revenue is secured by replacing UI-based checkouts with protocol-ready infrastru
 
 Awareness is won through factual, structured fragments. However, the bottom of the funnel belongs to those who have transitioned from human-centric design to machine-ready protocols.
 
-If an AI agent visited your website today to complete a transaction on behalf of a high-value customer, would it find a functional endpoint or a brick wall? [Joveo scaled exactly this kind of AI-search readiness](/case-studies/joveo) across a global enterprise footprint.
+If an AI agent visited your website today to complete a transaction on behalf of a high-value customer, would it find a functional endpoint or a brick wall? [Joveo scaled exactly this kind of AI-search readiness](/case-studies/joveo/) across a global enterprise footprint.
 
 **Is your brand interpretable by autonomous agents?**
 
-[Request an AI-Search Readiness Audit](/contact)
+[Request an AI-Search Readiness Audit](/contact/)
 
 ## Frequently Asked Questions
 

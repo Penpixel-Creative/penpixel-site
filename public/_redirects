@@ -3,7 +3,6 @@
 # All permanent (301), single hop, pointing at the final HTTPS URL.
 
 # --- Services ---
-/services                          /services/ai-search-readiness-audits/   301
 /services/monthly-retainers        /services/entity-management/            301
 /services/entity-managment         /services/entity-management/            301
 /services/content-strategy         /services/brand-and-visual-authority/   301

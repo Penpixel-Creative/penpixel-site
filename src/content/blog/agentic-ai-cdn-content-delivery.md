@@ -111,7 +111,7 @@ These include:
 - AI models gathering data
 - Scrapers used for competitive analysis
 
-If your Agentic AI CDN layer can't tell the difference between a human and a bot, it might make poor decisions — the same failure mode we cover in [treating AI agents like human visitors](/blog/financial-risk-treating-ai-agents-like-human-visitors).
+If your Agentic AI CDN layer can't tell the difference between a human and a bot, it might make poor decisions — the same failure mode we cover in [treating AI agents like human visitors](/blog/financial-risk-treating-ai-agents-like-human-visitors/).
 
 For example:
 
@@ -205,7 +205,7 @@ Are these the only signals AI uses? Not at all. AI systems also consider:
 - **Content structure**: Clear headings, readable formatting, and logical flow
 - **Sentiment and tone**: Whether the content feels helpful, neutral, or biased
 
-This shift means that **clear, helpful, and** [**authentic content** matters more than ever](/blog/co-citations-ai-search-authority). AI doesn't just count links—it reads between the lines. It's not just about being found; it's about being understood.
+This shift means that **clear, helpful, and** [**authentic content** matters more than ever](/blog/co-citations-ai-search-authority/). AI doesn't just count links—it reads between the lines. It's not just about being found; it's about being understood.
 
 ## Bottom Line: Humans Will Always Be Your Target Audience
 
@@ -219,8 +219,8 @@ And **design systems that serve people, not just algorithms.**
 
 Because in the end, the best digital experiences aren't just efficient, they're empathetic. They reflect the values of the people they're built for. And as AI continues to evolve, the challenge will be to ensure that our technologies don't just think, they care.
 
-Whether you're a developer, marketer, business owner, or curious observer, understanding the implications of Agentic AI CDN layers will help you navigate the future of digital engagement with clarity and confidence. We saw the cost of getting this wrong firsthand: [a global RPO enterprise's "JavaScript Blackout"](/case-studies/rpo-indexation) locked bots out entirely until it was resolved.
+Whether you're a developer, marketer, business owner, or curious observer, understanding the implications of Agentic AI CDN layers will help you navigate the future of digital engagement with clarity and confidence. We saw the cost of getting this wrong firsthand: [a global RPO enterprise's "JavaScript Blackout"](/case-studies/rpo-indexation/) locked bots out entirely until it was resolved.
 
 The tools are powerful. The possibilities are vast. But the responsibility is ours.
 
-Questions about your site, its content, or AI-generated search answers? [**Start here**](/services/ai-search-readiness-audits).
+Questions about your site, its content, or AI-generated search answers? [**Start here**](/services/ai-search-readiness-audits/).
