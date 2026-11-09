@@ -1,7 +1,7 @@
 ---
 import { SITE, NAV } from '../consts';
 const path = Astro.url.pathname;
-const isActive = (href: string) => path === href || path.startsWith(href + '/');
+const isActive = (href: string) => path.startsWith(href);
 ---
 <header class="sticky top-0 z-50 border-b border-white/10 bg-authority/95 backdrop-blur">
   <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-6 py-4">
@@ -23,7 +23,7 @@ const isActive = (href: string) => path === href || path.startsWith(href + '/');
         >{item.label}</a>
       ))}
       <a
-        href="/contact"
+        href="/contact/"
         class="hidden bg-impact-bg px-4 py-2 font-display text-sm font-bold text-canvas transition-opacity hover:opacity-90 sm:inline"
       >Get the Diagnosis</a>
 
@@ -65,7 +65,7 @@ const isActive = (href: string) => path === href || path.startsWith(href + '/');
         >{item.label}</a>
       ))}
       <a
-        href="/contact"
+        href="/contact/"
         class="mt-4 bg-impact-bg px-4 py-3 text-center font-display text-sm font-bold text-canvas"
       >Get the Diagnosis</a>
     </div>
