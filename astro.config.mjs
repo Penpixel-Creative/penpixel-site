@@ -8,7 +8,7 @@ import { unified } from '@astrojs/markdown-remark';
 export default defineConfig({
   site: 'https://penpixelcreative.com',
     trailingSlash: 'always',
-  integrations: [sitemap()],
+  integrations: [sitemap({ filter: (page) => !/\/blog\/\d+\/$/.test(page) })],
   vite: { plugins: [tailwindcss()] },
   // Keep CSS in external files so the Content-Security-Policy can stay tight
   // (no inlined <style> bundles to account for). Scoped component styles are
