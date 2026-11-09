@@ -29,7 +29,7 @@ Simply prompt any AI tool and ask about your name, brand, or service.
 If the answer is “no,” that’s a visibility gap with serious trust consequences.
 
 ## What Audit Findings Reveal
-Through our [search readiness audits](/services/ai-search-readiness-audits), we often see:
+Through our [search readiness audits](/services/ai-search-readiness-audits/), we often see:
 
 - Brands are missing entirely from answers to key questions like *“best [your industry] solutions.”*
 - Competitors are consistently cited across AI tools.
@@ -41,7 +41,7 @@ This isn’t hypothetical. It’s what happens when your content isn’t structu
 - AI-generated summaries are increasingly treated as trusted sources. A large-scale experiment found that [**citations (even when incorrect) boost trust in AI results**](https://arxiv.org/abs/2504.06435), while uncertainty labels can actually *erode* trust.
 - Users today may trust generative AI over traditional search results, especially when a citation is provided.
 
-Visibility gives your brand the edge; invisibility costs you leads and credibility. [If AI isn't recommending you](/blog/does-ai-recommend-you), your clients likely won't be either.
+Visibility gives your brand the edge; invisibility costs you leads and credibility. [If AI isn't recommending you](/blog/does-ai-recommend-you/), your clients likely won't be either.
 
 ## What’s the Next Move?
 Your brand doesn’t need a secret version of your website for AI agents. Here’s what works:
@@ -62,7 +62,7 @@ Your brand doesn’t need a secret version of your website for AI agents. Here�
 ## Your Next Question (Answered)
 **“Okay, I get it—I’m invisible to AI search. But how do I fix it?”**
 
-That’s where our next blog comes in: [**The Building Blocks of Citation‑Ready Content for AI Search**](/blog/how-to-create-citation-ready-content-for-ai-search). That piece will walk you through exactly how to structure your content, optimize schema, and prep assets to be AI-cited, and serve as a natural next step for readers and search engines alike.
+That’s where our next blog comes in: [**The Building Blocks of Citation‑Ready Content for AI Search**](/blog/how-to-create-citation-ready-content-for-ai-search/). That piece will walk you through exactly how to structure your content, optimize schema, and prep assets to be AI-cited, and serve as a natural next step for readers and search engines alike.
 
 ## The Bottom Line: Visibility Is Fixable
 Here’s the good news: this isn’t a branding death sentence, it’s a strategic opportunity.
@@ -72,6 +72,6 @@ Our AI‑Search Readiness Audit starts by asking the same two vital questions:
 1. Does your brand appear in AI-generated answers?
 2. Is it summarized or cited correctly?
 
-If the answer is no, [our audit](/services/ai-search-readiness-audits) shows you exactly where and how to fix the gaps.
+If the answer is no, [our audit](/services/ai-search-readiness-audits/) shows you exactly where and how to fix the gaps.
 
-You’re not invisible, just not yet citation-ready, but you can change that. [One logistics client went from invisible to a 1,500% organic surge](/case-studies/logistics) once the underlying entity problems were fixed.
+You’re not invisible, just not yet citation-ready, but you can change that. [One logistics client went from invisible to a 1,500% organic surge](/case-studies/logistics/) once the underlying entity problems were fixed.

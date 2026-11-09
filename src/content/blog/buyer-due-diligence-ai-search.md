@@ -15,10 +15,10 @@ What’s missing? The *real* questions buyers ask *before* signing a contract.
 
 Those questions fall into what we call **buyer due diligence topics**, and AI search tools consistently reward brands that address them.
 
-For additional context, check out [**How an AI-Search Readiness Audit Uncovers Visibility Gaps You Can’t See in Google Analytics**](/blog/how-ai-search-readiness-audit-works) to understand why traditional analytics miss these signals.
+For additional context, check out [**How an AI-Search Readiness Audit Uncovers Visibility Gaps You Can’t See in Google Analytics**](/blog/how-ai-search-readiness-audit-works/) to understand why traditional analytics miss these signals.
 
 ## Why This Matters for AI-Search Readiness
-One of the core [checklist items in our AI-Search Readiness Audit](/services/ai-search-readiness-audits) is:
+One of the core [checklist items in our AI-Search Readiness Audit](/services/ai-search-readiness-audits/) is:
 
 **“Does the site answer related subquestions AI tools may surface?”**
 
@@ -48,7 +48,7 @@ If your audit reveals these gaps, here’s how to fix them:
 
 - **Add ROI Pages or Calculators:** Buyers love clear cost-benefit logic. That could be a pricing comparison, a total cost of ownership calculator, or a simple breakdown of time and money saved.
 - **Include Compliance & Risk FAQs:** Don’t bury compliance or safety information in fine print. Call it out directly on service or product pages, whether it’s data privacy, financial regulations, industry certifications, or environmental standards, and mark it up with schema for visibility.
-- **Refresh Case Studies or Proof Points:** Reframe them around measurable outcomes: problem → solution → results. In software, that might be time-to-value. In professional services, it could be cost reduction or efficiency gains. In consumer brands, it could be product durability or sustainability benefits. [DT Heritage's 92.1% AI citation growth](/case-studies/dt-heritage) is the kind of hard number worth leading with.
+- **Refresh Case Studies or Proof Points:** Reframe them around measurable outcomes: problem → solution → results. In software, that might be time-to-value. In professional services, it could be cost reduction or efficiency gains. In consumer brands, it could be product durability or sustainability benefits. [DT Heritage's 92.1% AI citation growth](/case-studies/dt-heritage/) is the kind of hard number worth leading with.
 - **Address Objections Directly:** Write content about the risks your buyers are already weighing, whether it’s implementation hurdles, downtime, budget pushback, or ethical concerns. Transparency builds trust, both with buyers and with AI tools.
 
 ## Your Next Question (Answered)
@@ -58,7 +58,7 @@ The answer: they’re the tough internal questions your buyers ask long before t
 
 If your site or brand doesn’t answer them, AI tools assume you’re not the authority, and they’ll cite a competitor instead.
 
-To dive deeper into execution, read [**How to Build Trust with Content That Covers Budget, Compliance, and ROI Questions**](/blog/content-builds-trust-ai-search).
+To dive deeper into execution, read [**How to Build Trust with Content That Covers Budget, Compliance, and ROI Questions**](/blog/content-builds-trust-ai-search/).
 
 ## The Bottom Line: Trust Is the New Visibility Signal
 Buyer due diligence topics aren’t nice-to-haves. They’re the **price of admission** if you want visibility in AI search.

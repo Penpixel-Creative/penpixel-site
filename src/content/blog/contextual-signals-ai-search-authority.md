@@ -11,13 +11,13 @@ pubDate: 2025-09-12
 - Two signals you can influence quickly: **co-citations** (brand + topic mentions, link or no link) and **negative inbound optimization** (defining what you are *not* to clarify what you are).
 - Stop running "link-building campaigns." Run **visibility campaigns** that place your brand and your core terms together in the places AI already trusts.
 - Measure progress with AI Share of Voice, mention breadth across trusted sources, and consistency of brand/entity signals.
-- Start with an [AI-Search Readiness Audit](/services/ai-search-readiness-audits) to get a clear roadmap on how to prepare for AI-search.
+- Start with an [AI-Search Readiness Audit](/services/ai-search-readiness-audits/) to get a clear roadmap on how to prepare for AI-search.
 
 ## Why This Matters Now
 
 For two decades, SEO teams have chased backlinks. The more trusted sites that linked to you, the more "authority" you accrued, and the better you ranked. That model made sense in a PageRank world.
 
-But [AI-driven answers (ChatGPT, Gemini, Perplexity, and search engines' AI overviews)](/blog/buyer-due-diligence-ai-search) don't behave like a ranked list of URLs.
+But [AI-driven answers (ChatGPT, Gemini, Perplexity, and search engines' AI overviews)](/blog/buyer-due-diligence-ai-search/) don't behave like a ranked list of URLs.
 
 They synthesize. They weigh **context**, not just counts. They examine how your brand appears across authoritative conversations and whether they can confidently position you in a category.
 
@@ -36,13 +36,13 @@ Think of contextual signals as the connective tissue between your brand and the 
 Two signals are especially actionable right now:
 
 - **Co-citations** (external): your brand mentioned *alongside* priority topics and peers, with or without a link.
-- [**Negative inbound optimization**](/blog/negative-inbound-optimization-ai-search) (internal): codifying what you don't do to sharpen what you actually are.
+- [**Negative inbound optimization**](/blog/negative-inbound-optimization-ai-search/) (internal): codifying what you don't do to sharpen what you actually are.
 
 ## Co-citations: the authority signal hiding in plain sight
 
 ### What it is (in plain terms)
 
-A [**co-citation**](/blog/co-citations-ai-search-authority) happens when your brand name appears near the keywords, category labels, or competitor names you want to be associated with, **even if there's no hyperlink** to your site.
+A [**co-citation**](/blog/co-citations-ai-search-authority/) happens when your brand name appears near the keywords, category labels, or competitor names you want to be associated with, **even if there's no hyperlink** to your site.
 
 Examples:
 
@@ -112,7 +112,7 @@ Use cases:
 
 ## "Link-building" vs. "visibility-building": change the campaign you run
 
-Classic link campaigns measure outputs (# of links). [**Visibility campaigns** measure **context and placement**](/services/brand-and-visual-authority):
+Classic link campaigns measure outputs (# of links). [**Visibility campaigns** measure **context and placement**](/services/brand-and-visual-authority/):
 
 - Where did our brand appear?
 - Alongside which terms and competitors?
@@ -133,7 +133,7 @@ Executives don't need 40 SEO metrics; you need a handful that prove authority is
 
 **1) AI Share of Voice (SOV)**
 
-- [Track how often your brand appears in AI-generated answers](/blog/content-builds-trust-ai-search) across a set of representative prompts (category, use case, alternatives).
+- [Track how often your brand appears in AI-generated answers](/blog/content-builds-trust-ai-search/) across a set of representative prompts (category, use case, alternatives).
 - Monitor movement monthly; aim for directional growth and higher-quality citations.
 
 **2) Mention breadth & depth**
@@ -160,7 +160,7 @@ Executives don't need 40 SEO metrics; you need a handful that prove authority is
 
 **Weeks 1–2: Baseline & focus**
 
-- [Audit co-citations](/services/ai-search-readiness-audits): where are you already mentioned? By whom? In what context?
+- [Audit co-citations](/services/ai-search-readiness-audits/): where are you already mentioned? By whom? In what context?
 - Identify the top 5 topics and 5 prompts where you want to win AI citations.
 - Choose one anchor asset with clear novelty (benchmark, decision framework, ROI model).
 
@@ -234,4 +234,4 @@ If your name isn't consistently mentioned alongside your category's key terms, a
 
 Trade "how many links did we get?" for "where and how are we being mentioned?" Run visibility campaigns that engineer **co-citations** and apply **negative inbound optimization** to sharpen your positioning. Then measure what matters: AI Share of Voice, mention breadth in trusted venues, and the consistency of your entity signals.
 
-[Leaders who adapt will own the conversation.](/services/brand-and-visual-authority) Everyone else will keep building links while competitors collect the citations.
+[Leaders who adapt will own the conversation.](/services/brand-and-visual-authority/) Everyone else will keep building links while competitors collect the citations.

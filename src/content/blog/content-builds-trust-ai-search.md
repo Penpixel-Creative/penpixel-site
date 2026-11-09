@@ -13,7 +13,7 @@ Your buyers are already asking these questions:
 
 If your content doesn’t answer them, AI tools will cite someone else who does. And in today’s environment, that means losing trust before a conversation even begins.
 
-*For context on why these deeper questions matter, check out* [***What Are Buyer Due Diligence Topics (and Why AI Search Rewards Them)***](/blog/buyer-due-diligence-ai-search)*.*
+*For context on why these deeper questions matter, check out* [***What Are Buyer Due Diligence Topics (and Why AI Search Rewards Them)***](/blog/buyer-due-diligence-ai-search/)*.*
 
 ## Why This Matters for AI-Search Readiness
 AI search mirrors the way buyers think. And buyers rarely think in marketing slogans.
@@ -52,7 +52,7 @@ Here’s how to cover the questions buyers and AI tools demand:
 
 **3. Make ROI Impossible to Miss**
 
-- Refresh case studies to highlight measurable outcomes: money saved, time reduced, risk avoided. [DT Heritage's 92.1% AI citation growth](/case-studies/dt-heritage) is the kind of hard number that does this well.
+- Refresh case studies to highlight measurable outcomes: money saved, time reduced, risk avoided. [DT Heritage's 92.1% AI citation growth](/case-studies/dt-heritage/) is the kind of hard number that does this well.
 - Add ROI calculators or benchmarks that buyers can test themselves.
 
 **4. Be Transparent About Challenges**
@@ -67,13 +67,13 @@ They’re the budget, compliance, and ROI questions your buyers have to answer i
 
 If your content doesn’t cover them, AI tools (and buyers) assume you don’t have the answers, and they’ll look elsewhere.
 
-*To see how this plays out in real audits, read* [***Turn Case Studies Into AI-Friendly Assets***](/blog/ai-friendly-case-studies)*.*
+*To see how this plays out in real audits, read* [***Turn Case Studies Into AI-Friendly Assets***](/blog/ai-friendly-case-studies/)*.*
 
 ## The Bottom Line: Trust Is the New Visibility Signal
 Trust in AI search isn’t built on flashy headlines. It’s built on transparency.
 
 Cover budget. Cover compliance. Show ROI.
 
-If you’re not sure whether your content is doing this today, that’s [exactly what an AI-Search Readiness Audit uncovers](/services/ai-search-readiness-audits): the missing pieces of buyer trust that keep your brand invisible in AI tools.
+If you’re not sure whether your content is doing this today, that’s [exactly what an AI-Search Readiness Audit uncovers](/services/ai-search-readiness-audits/): the missing pieces of buyer trust that keep your brand invisible in AI tools.
 
-*And if you missed the foundation of this discussion, revisit* [***What Are Buyer Due Diligence Topics (and Why AI Search Rewards Them)***](/blog/buyer-due-diligence-ai-search)*.*
+*And if you missed the foundation of this discussion, revisit* [***What Are Buyer Due Diligence Topics (and Why AI Search Rewards Them)***](/blog/buyer-due-diligence-ai-search/)*.*

@@ -13,7 +13,7 @@ That’s why one of the core questions in our AI-Search Readiness Audit is:
 
 **“Does the site provide measurable outcomes that AI tools and buyers can cite?”**
 
-*For background on why these proof points matter, revisit* [***How to Build Trust with Content That Covers Budget, Compliance, and ROI Questions***](/blog/content-builds-trust-ai-search)*.*
+*For background on why these proof points matter, revisit* [***How to Build Trust with Content That Covers Budget, Compliance, and ROI Questions***](/blog/content-builds-trust-ai-search/)*.*
 
 ## Why This Matters
 AI tools don’t guess.
@@ -59,7 +59,7 @@ To make case studies AI-friendly and executive-ready, you need four things:
 ## Why This Works for Executive Buyers
 Executives value risk reduction and measurable ROI.
 
-A case study that says “Client X saved $250,000 and cut downtime by 40%” speaks volumes, which is exactly why [DT Heritage's case study leads with 92.1% AI citation growth](/case-studies/dt-heritage) instead of a vague success story.
+A case study that says “Client X saved $250,000 and cut downtime by 40%” speaks volumes, which is exactly why [DT Heritage's case study leads with 92.1% AI citation growth](/case-studies/dt-heritage/) instead of a vague success story.
 
 And when AI tools surface those numbers in their answers, your credibility compounds.
 
@@ -70,9 +70,9 @@ The answer: Yes, if you want them to be discoverable.
 
 AI tools surface data points, not vague narratives. The more structured, transparent, and measurable your case studies, the more likely they are to win visibility.
 
-If you missed the foundation of this theme, start with [**What Are Buyer Due Diligence Topics — and Why AI Search Rewards Them**](/blog/buyer-due-diligence-ai-search).
+If you missed the foundation of this theme, start with [**What Are Buyer Due Diligence Topics — and Why AI Search Rewards Them**](/blog/buyer-due-diligence-ai-search/).
 
 ## The Bottom Line: Proof Wins Trust
 Weak case studies waste space. Strong case studies build trust with buyers and visibility with AI.
 
-If your case studies aren’t measurable, structured, and AI-ready, you’re leaving authority (and revenue) on the table. The fix is straightforward, and it’s one of the clearest [paths to stronger AI visibility](/services/ai-search-readiness-audits) and executive buy-in.
+If your case studies aren’t measurable, structured, and AI-ready, you’re leaving authority (and revenue) on the table. The fix is straightforward, and it’s one of the clearest [paths to stronger AI visibility](/services/ai-search-readiness-audits/) and executive buy-in.

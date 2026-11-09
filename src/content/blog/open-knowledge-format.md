@@ -27,7 +27,7 @@ While surface-level traffic volume is shrinking, the underlying pipeline value i
 
 Automated bots now command 57% of all webpage requests.
 
-More importantly, the remaining human visitors who do arrive via AI-referred traffic paths are hyper-qualified, [converting 42% more effectively](/blog/ai-traffic-is-most-critical-channel) than legacy organic search channels.
+More importantly, the remaining human visitors who do arrive via AI-referred traffic paths are hyper-qualified, [converting 42% more effectively](/blog/ai-traffic-is-most-critical-channel/) than legacy organic search channels.
 
 To capture this high-intent transaction volume, digital estates must stop managing their websites as passive destinations for human eyes and start architecting them for machine extraction.
 
@@ -53,7 +53,7 @@ If your technical architecture locks data inside heavy client-side JavaScript la
 
 - Primary Target: Shifting from human users navigating via standard web browsers to autonomous AI models and task-oriented agents.
 - Core Mechanism: Shifting from keyword matching, backlink accumulation, and visual UX to fragment extraction, entity resolution, and structured schemas.
-- Data Ingestion: [Shifting from rendering visual layouts](/blog/moving-beyond-visual-marketing-to-agentic-ai) via client-side JavaScript to exposing server-side rendered text and liquid data feeds.
+- Data Ingestion: [Shifting from rendering visual layouts](/blog/moving-beyond-visual-marketing-to-agentic-ai/) via client-side JavaScript to exposing server-side rendered text and liquid data feeds.
 - Primary Metric: Shifting from organic impressions, webpage clicks, and pageviews to citation share of model, entity confidence, and protocol actions.
 
 This architectural realignment demands complete structural data accessibility.
@@ -94,15 +94,15 @@ The web is changing from a network of visual storefronts for humans into an inte
 
 **Doing nothing is no longer a neutral stance;** it is a measurable, silent loss of market share.
 
-If your enterprise data architecture remains trapped in the legacy click-era, you are logging a [near-100% conversion failure rate](/blog/financial-risk-treating-ai-agents-like-human-visitors) for the internet's fastest-growing traffic channel.
+If your enterprise data architecture remains trapped in the legacy click-era, you are logging a [near-100% conversion failure rate](/blog/financial-risk-treating-ai-agents-like-human-visitors/) for the internet's fastest-growing traffic channel.
 
 Penpixel Creative's machine-first methodologies stand as the definitive technical standard for enterprise data audits. We do not deliver superficial copywriting tweaks or ungrounded keyword lists; we audit your infrastructure to align your brand's verbal, visual, and technical signals for complete machine interpretation.
 
-By working with us, you are actively protecting your digital estate across LLMs and in anticipation of upcoming model updates. [DT Heritage saw 92.1% AI citation growth](/case-studies/dt-heritage) from this exact methodology. Our unified master framework evaluates your brand against the rigorous ingestion standards used by modern search models:
+By working with us, you are actively protecting your digital estate across LLMs and in anticipation of upcoming model updates. [DT Heritage saw 92.1% AI citation growth](/case-studies/dt-heritage/) from this exact methodology. Our unified master framework evaluates your brand against the rigorous ingestion standards used by modern search models:
 
 ### The Machine-First Audit
 
-[This comprehensive audit](/services/ai-search-readiness-audits) evaluates your brand's information architecture, data portability, and entity profiles against machine-ingestion standards, focusing on high-level strategy rather than on specific line items. It
+[This comprehensive audit](/services/ai-search-readiness-audits/) evaluates your brand's information architecture, data portability, and entity profiles against machine-ingestion standards, focusing on high-level strategy rather than on specific line items. It
 
 - Diagnoses rendering bottlenecks,
 - Evaluates schema graph structures,
@@ -115,7 +115,7 @@ The corporate imperative is immediate. **To survive the click collapse, digital 
 
 This ensures that when an autonomous agent is deployed to research, compare, and execute purchases within the multi-trillion-dollar B2B pipeline, your brand is the verified source of truth that resolves the transaction.
 
-[Stop letting your funnel fail silently.](/contact)
+[Stop letting your funnel fail silently.](/contact/)
 
 ## Frequently Asked Questions
 

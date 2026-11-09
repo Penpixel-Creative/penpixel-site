@@ -48,7 +48,7 @@ As these systems evolve from generating text to executing autonomous tasks—suc
 
 Source verification is the "safety lock" for AI agents. When an AI system "fans out" to verify sources, it isn't just looking for information; it is looking for a Source of Truth that meets rigorous benchmarks for Experience, Expertise, Authoritativeness, and Trustworthiness (EEAT). The agent isn't simply verifying your data—it is verifying the EEAT of the entity behind that data.
 
-If [your brand cannot prove its authority](/blog/beyond-the-blue-link) through these signals, the agent will bypass you entirely in favor of competitors who provide the clear, verifiable breadcrumbs it needs to follow.
+If [your brand cannot prove its authority](/blog/beyond-the-blue-link/) through these signals, the agent will bypass you entirely in favor of competitors who provide the clear, verifiable breadcrumbs it needs to follow.
 
 ### How agentic AI systems work
 
@@ -64,7 +64,7 @@ Agentic AI systems move beyond generating text to performing autonomous actions.
 
 The internet is progressing from a place where humans search for information to one where autonomous agents perform tasks on our behalf. Preparing your website and brand is critical because AI systems are rapidly taking over the internet's revenue layer.
 
-Traditional organic click-through rates drop by up to 58% when AI overviews appear, but highly [qualified AI-referred traffic converts at 42% higher rates](/blog/ai-traffic-is-most-critical-channel).
+Traditional organic click-through rates drop by up to 58% when AI overviews appear, but highly [qualified AI-referred traffic converts at 42% higher rates](/blog/ai-traffic-is-most-critical-channel/).
 
 With AI agents projected to orchestrate trillions in global spending, being invisible to them is a massive financial risk. If your brand signals are weak, the agent will bypass your site in favor of a competitor with higher "Citable Authority."
 
@@ -90,7 +90,7 @@ To align with the trajectory of agentic commerce, you must shift focus from visu
 
 - **Reallocate to the Lower Funnel**: Move beyond "what is" content. Prioritize proprietary, expert-level data that defines your specific solution and satisfies E-E-A-T benchmarks. This involves understanding the underlying intent of your ICP.
 - **Establish Entity Consensus**: Ensure your brand's EEAT is reflected across essential third-party databases, industry publications, and technical schema, making your website the "source of truth" for your proprietary information.
-- **Optimize for Tool-Use Reliability**: Structure your data so agents can interact with it as a protocol. This ensures your brand is the path of highest confidence for autonomous recommendations. [A global RPO enterprise learned this the hard way](/case-studies/rpo-indexation): a client-side rendering "JavaScript Blackout" locked agents out entirely until it was resolved.
+- **Optimize for Tool-Use Reliability**: Structure your data so agents can interact with it as a protocol. This ensures your brand is the path of highest confidence for autonomous recommendations. [A global RPO enterprise learned this the hard way](/case-studies/rpo-indexation/): a client-side rendering "JavaScript Blackout" locked agents out entirely until it was resolved.
 
 By evolving these models now, leaders move from a reactive state of chasing prompts to a proactive position of owning the signals that drive autonomous revenue.
 
@@ -102,7 +102,7 @@ For most leaders, the luxury of "leveling up" personally doesn't exist. Your man
 
 If your team is busy with legacy SEO while competitors capture the AI revenue layer, what is the cost of your brand's invisibility? Would it be more effective to leverage a partner who has already mapped the technical terrain, allowing you to focus on high-level strategy and growth?
 
-[Contact us](/contact) to find answers to these questions.
+[Contact us](/contact/) to find answers to these questions.
 
 ## Frequently Asked Questions
 
