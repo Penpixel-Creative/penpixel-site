@@ -32,10 +32,6 @@ export const brandFaqs: FAQItem[] = [
     answer: 'Visual Identity Engineering (systems, not just a logo), Multimedia Branding (assets built for video and audio discovery), Cross-Platform Alignment (a forensic audit matching your visual fingerprint everywhere), and Public Sentiment & PR.',
   },
   {
-    question: 'Who leads this work?',
-    answer: 'Tony Moles, a veteran Creative Director with deep B2B agency experience, leads the design division. Not an SEO generalist moonlighting as a designer.',
-  },
-  {
     question: 'What do I actually receive?',
     answer: 'A Brand Kit (a machine-ready asset library), the Guidelines (rules that keep internal teams from breaking consistency), and a Multimedia Suite (templates for high-signal video, audio, and social content).',
   },
