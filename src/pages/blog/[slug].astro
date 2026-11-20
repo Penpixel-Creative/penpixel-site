@@ -13,7 +13,7 @@ const { Content } = await render(post);
 const d = post.data;
 
 const authorName = d.author ?? SITE.founder;
-const authorMeta = AUTHORS[authorName as keyof typeof AUTHORS];
+const authorMeta = AUTHORS[authorName];
 // Byline links to the author's LinkedIn (first sameAs entry in consts.ts).
 const authorProfile = authorMeta?.sameAs?.[0];
 
@@ -33,7 +33,7 @@ const schema = {
     ...(authorMeta?.jobTitle && { jobTitle: authorMeta.jobTitle }),
     ...(authorMeta?.url && { url: authorMeta.url }),
     ...(authorMeta?.sameAs && { sameAs: [...authorMeta.sameAs] }),
-    worksFor: { '@id': `${SITE.url}/#organization` },
+    ...(!authorMeta?.former && { worksFor: { '@id': `${SITE.url}/#organization` } }),
   },
   publisher: { '@id': `${SITE.url}/#organization` },
   ...(d.about && { about: d.about.map((name) => ({ '@type': 'Thing', name })) }),

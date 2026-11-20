@@ -91,7 +91,7 @@ src/
   content.config.ts     Blog collection schema (title/metaTitle/description/pubDate)
   pages/
     index.astro                          Home
-    about.astro                          Team bios (Deven, Patrick, Matt)
+    about.astro                          Team bios (Deven, Patrick)
     contact.astro                        Diagnosis form + booking link
     services/index.astro + 4 detail pages
     case-studies/index.astro + [slug].astro   Dynamic renderer reading data/case-studies.ts

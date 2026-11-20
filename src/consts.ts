@@ -29,18 +29,28 @@ export const SITE = {
 // Per-author metadata for blog bylines and Person schema. Keyed by the exact
 // string used in a post's frontmatter `author` field. Posts with no `author`
 // set fall back to SITE.founder (Deven) with no entry needed here.
-export const AUTHORS = {
+export interface Author {
+  jobTitle?: string;
+  url?: string;
+  sameAs?: readonly string[];
+  // Former team members keep their byline but drop worksFor in Person schema.
+  former?: boolean;
+}
+
+export const AUTHORS: Record<string, Author> = {
   'Deven Bhagwandin': {
     jobTitle: 'Founder',
     url: `${SITE.url}/about/#deven-bhagwandin`,
     sameAs: ['https://www.linkedin.com/in/devenbhagwandin'],
   },
+  // Former team member. Kept so his two existing posts keep a byline; no About
+  // anchor or jobTitle since he is no longer with Penpixel Creative.
   'Matt Shaw': {
-    jobTitle: 'Infrastructure Architect',
-    url: `${SITE.url}/about/#matt-shaw`,
+    former: true,
+    url: 'https://www.linkedin.com/in/matt-r-shaw-/',
     sameAs: ['https://www.linkedin.com/in/matt-r-shaw-/'],
   },
-} as const;
+};
 
 export const NAV = [
   { label: 'About', href: '/about/' },
